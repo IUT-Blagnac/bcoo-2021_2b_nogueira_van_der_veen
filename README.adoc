@@ -2,9 +2,8 @@
 
 == Membre du groupe
 
-- Dupont (2A)
-- Durand (3B)
-- ...
+- Nogueira Anthony (2B)
+- Van Der Veen Ruard (2B)
 
 == Outils utilisés/requis
 
