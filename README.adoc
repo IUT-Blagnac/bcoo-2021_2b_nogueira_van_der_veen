@@ -6,4 +6,5 @@
 - Van Der Veen Ruard (2B)
 
 == Outils utilisés/requis
-
+- Discord
+- Visual Studio Code
