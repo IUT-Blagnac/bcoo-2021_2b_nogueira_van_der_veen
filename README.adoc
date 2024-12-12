@@ -1,10 +1,10 @@
-= BC00 2021 - Rétro-conception Discord
+= BC00 2021 - Rétro-Conception Discord
 
 == Membre du groupe
 
-- Dupont (2A)
-- Durand (3B)
-- ...
+- Nogueira Anthony (2B)
+- Van Der Veen Ruard (2B)
 
 == Outils utilisés/requis
-
+- Discord
+- Visual Studio Code
